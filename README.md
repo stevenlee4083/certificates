@@ -5,4 +5,4 @@ JavaScript
 jQuery
 PHP
 SQL
-Pythonㅗ
+Python
